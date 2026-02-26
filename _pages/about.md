@@ -27,6 +27,6 @@ Accomplishments
 Latest News
 ======
 * 2025, Dec 24: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper!
-* 2025, Dec 10: I presented a paper at the 2025 IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil
+* 2025, Dec 10: I presented a paper at the 2025 IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil.
 * 2025, May 9:  One paper was accepted by Journal of Machine Learning Research!
 

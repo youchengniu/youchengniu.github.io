@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently  working toward the Ph.D. degree in Zhejiang University.  My research interests include distributed optimization and learning, bilevel optimization,  game theory, and their applications.
+Welcome! I am currently working toward the Ph.D. degree on Electronic Information Engineering in Zhejiang University, supervised by Prof. Jinming Xu, Prof. Chai Li and Prof. Jiming Chen.  My research interests include distributed optimization and learning, bilevel optimization, game theory, LLMs pretraining training, reinforcement learning. 
 
 Education
 ======
@@ -20,12 +20,9 @@ Education
 Accomplishments
 ======
 *  Outstanding Graduate Student of Chongqing, Chongqing Education Commission， 2022
-*  Outstanding Graduate, Southwest University, 2022
 *  The 13th Chongqing Youth Science and Technology Innovation Mayor's Award, Chongqing Municipal People's Government, 2021
-*  Merit Student of Chongqing, Chongqing Education Commission， 2020
 *  Outstanding Graduate, Southwest University, 2019
 *  First Prize of National Undergraduate Electronics Design Contest， 2019
-*  Second Prize of National College Student Mathematical Modeling Competition in Chongqing Regional Competition，2017
 
 Publications
 ======

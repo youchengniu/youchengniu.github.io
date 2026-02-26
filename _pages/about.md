@@ -24,8 +24,9 @@ Accomplishments
 *  Outstanding Graduate, Southwest University, 2019
 *  First Prize of National Undergraduate Electronics Design Contest， 2019
 
-Publications
+Latest News
 ======
-  <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2025, Dec 24: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper!
+* 2025, Dec 10: I presented a paper at the 2025 IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil
+* 2025, May 9:  One paper was accepted by Journal of Machine Learning Research!
+

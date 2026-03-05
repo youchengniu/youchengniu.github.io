@@ -37,7 +37,7 @@ Latest News
 * 2024, May 16: One co-author paper was accepted by Journal of Parallel and Distributed Computing (JPDC)! [\[Link\]](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868)
 * 2023, Dec 11: I presented a paper at the 2023 IEEE Conference on Decision and Control (CDC) in Marina Bay Sands, Singapore!
 * 2023, Oct 5:  I served as  Executive Chair of the 2023 ZJU National Academic Forum for PH.D Candidates on Swarm Intelligence and Unmanned Systems, Zhejiang University,  held  in Hangzhou, China, from November 3 to 5, 2023!
-* 2023, Jul 12: One paper and one co-authored paper with Jianhui Sun were accepted by the 2023 IEEE Conference on Decision and Control (CDC)! [\[Link\]](https://ieeexplore.ieee.org/abstract/document/10383649/) \[\[Link\]](https://ieeexplore.ieee.org/abstract/document/10383393/)
+* 2023, Jul 12: One paper and one co-authored paper with Jianhui were accepted by the 2023 IEEE Conference on Decision and Control (CDC)! [\[Link\]](https://ieeexplore.ieee.org/abstract/document/10383649/) [\[Link\]](https://ieeexplore.ieee.org/abstract/document/10383393/)
 * 2023, Mar 13: One co-author paper was accepted by IEEE Transactions on Industrial Electronics  (TIE)! [\[Link\]](https://ieeexplore.ieee.org/abstract/document/10083055)
 * 2022, Dec 3: I gave a talk an oral presentation in the 2022 ZJU National Academic Forum for PH.D Candidates on Swarm Intelligence and Unmanned Systems!
 * 2022, Nov 11: I served as  Executive Chair of the 2022 ZJU National Academic Forum for PH.D Candidates on Swarm Intelligence and Unmanned Systems, Zhejiang University, held online from December 2 to 4, 2022!

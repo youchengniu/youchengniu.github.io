@@ -29,11 +29,11 @@ Latest News
 * 2022, Nov 11: I served as  Executive Chair of the 2022 ZJU National Academic Forum for PH.D Candidates on Swarm Intelligence and Unmanned Systems, Zhejiang University, held online from December 2 to 4, 2022!
 
 **Selected Publications**
-* **Youcheng Niu**, Jinming Xu, Ying Sun, Chai Li, and Jiming Chen, ``Distributed Bilevel Optimization via Adaptive Penalization with Time-Scale Separation'',  \emph{IEEE Transactions on Automatic Control (TAC)} (Full paper), 2026. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/11346979)
-* **Youcheng Niu**, Jinming Xu, Ying Sun, Yan Huang, and Li Chai, ``Distributed Stochastic Bilevel Optimization: Improved Complexity and Heterogeneity Analysis'', \emph{Journal of Machine Learning Research (JMLR)}, 2025. [\[Publisher\]](https://arxiv.org/pdf/2312.14690)
-* **Youcheng Niu**, Jinming Xu, Ying Sun, Li Chai, and Jiming Chen, ``Improved Convergence Rates for Distributed Bilevel Optimization via Moreau Smoothing under Polyak-Łojasiewicz Conditions'', \emph{2025 IEEE 64th Conference on Decision and Control (CDC)}, 2025. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/11312713)
-* **Youcheng Niu**, Ying Sun, Yan Huang, and Jinming Xu, ``A Loopless Distributed Algorithm for Personalized Bilevel Optimization'', \emph{The 62nd IEEE Conference on Decision and Control (CDC)}, 2023. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/10383649/)
-* **Youcheng Niu**, Huaqing Li, Zheng Wang, Qingguo Lü, Dawen Xia, and Lianghao Ji, ``A Distributed Stochastic Proximal-Gradient Algorithm for Composite Optimization'', \emph{IEEE Transactions on Control of Network Systems (TCNS)}, 2021. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/9376267/)
+* **Youcheng Niu**, Jinming Xu, Ying Sun, Chai Li, and Jiming Chen, ``Distributed Bilevel Optimization via Adaptive Penalization with Time-Scale Separation'',  *IEEE Transactions on Automatic Control (TAC)* (Full paper), 2026. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/11346979)
+* **Youcheng Niu**, Jinming Xu, Ying Sun, Yan Huang, and Li Chai, ``Distributed Stochastic Bilevel Optimization: Improved Complexity and Heterogeneity Analysis'', *Journal of Machine Learning Research (JMLR)*, 2025. [\[Publisher\]](https://arxiv.org/pdf/2312.14690)
+* **Youcheng Niu**, Jinming Xu, Ying Sun, Li Chai, and Jiming Chen, ``Improved Convergence Rates for Distributed Bilevel Optimization via Moreau Smoothing under Polyak-Łojasiewicz Conditions'', *2025 IEEE 64th Conference on Decision and Control (CDC)*, 2025. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/11312713)
+* **Youcheng Niu**, Ying Sun, Yan Huang, and Jinming Xu, ``A Loopless Distributed Algorithm for Personalized Bilevel Optimization'', *The 62nd IEEE Conference on Decision and Control (CDC)*, 2023. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/10383649/)
+* **Youcheng Niu**, Huaqing Li, Zheng Wang, Qingguo Lü, Dawen Xia, and Lianghao Ji, ``A Distributed Stochastic Proximal-Gradient Algorithm for Composite Optimization'', *IEEE Transactions on Control of Network Systems (TCNS)*, 2021. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/9376267/)
 
 **[See More Publications](https://scholar.google.com/citations?hl=zh-CN&user=tJqsz5oAAAAJ&view_op=list_works&sortby=pubdate)**
 

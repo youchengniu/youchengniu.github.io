@@ -37,6 +37,13 @@ Latest News
 
 **[See More Publications](https://scholar.google.com/citations?hl=zh-CN&user=tJqsz5oAAAAJ&view_op=list_works&sortby=pubdate)**
 
+**Talks**
+* Oral Presentation: "Improved Convergence Rates for Distributed Bilevel Optimization via Moreau Smoothing under Polyak-Łojasiewicz Conditions", *2025 64th IEEE Conference on Decision and Control (CDC)*, Rio de Janeiro, Brazil, Dec. 2025.
+* Oral Presentation: "Distributed Stochastic Bilevel Optimization: Improved Complexity and Heterogeneity Analysis", *2025 Chinese System Science Conference (CSSC)*, Kunming, China, May 2025.
+* Oral Presentation: "A Loopless Distributed Algorithm for Personalized Bilevel Optimization", *2023 62nd IEEE Conference on Decision and Control (CDC)*, Singapore, Dec. 2023.
+* Oral Presentation: "Non-Cooperative Games of Multiple Players in Network Systems", *2022 Zhejiang University National Academic Forum for Ph.D Candidates*, Hangzhou, China, Dec. 2022.
+
+
 Education
 ======
 

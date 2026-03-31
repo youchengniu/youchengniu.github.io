@@ -7,6 +7,160 @@
 >
 
 <url>
+ <loc>http://jekyllrb.com</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://mademistakes.com/work/minimal-mistakes-jekyll-theme/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>mailto:ycniu@zju.edu.cn</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?user=tJqsz5oAAAAJ&amp;hl=zh-CN</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/youchengniu</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://jinmingxu.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://person.zju.edu.cn/chaili</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://person.zju.edu.cn/en/jmchen</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/11346979/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/11122371</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/11312713</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.jmlr.org/papers/volume26/24-0187/24-0187.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/10383649/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/10383393/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/10083055</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/11346979</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://arxiv.org/pdf/2312.14690</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/9376267/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?hl=zh-CN&amp;user=tJqsz5oAAAAJ&amp;view_op=list_works&amp;sortby=pubdate</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://github.com/youchengniu</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/academicpages/academicpages.github.io</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-03-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
  <loc>https://youchengniu.github.io/</loc>
  <priority>0.3</priority>
  <lastmod>2026-03-31</lastmod>

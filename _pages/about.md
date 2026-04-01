@@ -12,10 +12,11 @@ Welcome! I am currently working toward the Ph.D. degree on Electronic Informatio
 
 Latest News
 ======
+* 2026, Mar 31, Two co-authored papers with Yilin and Zihan were submitted to 2026 IEEE Conference on Decision and Control (CDC) and will be posted on arXiv shortly!
 * 2026, Jan 20, One co-authored paper with Tianle was submitted to IJCAI 2026 and will be posted on arXiv shortly!
 * 2025, Dec 24: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! [\[Link\]](https://ieeexplore.ieee.org/abstract/document/11346979/) 
 * 2025, Dec 10: I presented a paper at the 2025 IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil!
-* 2025, Jul 17: One co-authored with Janhui paper was accepted by IEEE Transactions on Information Forensics & Security! [\[Link\]](https://ieeexplore.ieee.org/abstract/document/11122371)
+* 2025, Jul 17: One co-authored paper with Janhui  was accepted by IEEE Transactions on Information Forensics & Security! [\[Link\]](https://ieeexplore.ieee.org/abstract/document/11122371)
 * 2025, Jul 16: One paper was accepted by the 2025 IEEE Conference on Decision and Control (CDC)! [\[Link\]](https://ieeexplore.ieee.org/abstract/document/11312713)
 * 2025，May 11: I gave an oral presentaion in Chinese System Science Conference 2025 (CSSC 2025)!
 * 2025, May 9:  One paper was accepted by Journal of Machine Learning Research (JMLR)! [\[PDF\]](https://www.jmlr.org/papers/volume26/24-0187/24-0187.pdf)
